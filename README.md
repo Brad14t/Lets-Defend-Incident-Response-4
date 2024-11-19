@@ -3,7 +3,7 @@ SOC168 - Whoami Command Detected in Request Body
 
 **Summary:**
 
-In this Incident I responded to an alert triggered by "Request Body Contains whoami string". After locating the whoami command and others inside the endpoint affected (WebServer 1004). Looking through filtered logs confirmed the commands injected were succeful. Server was immediatly isolated, and incident was escalated. 
+In this Incident I responded to an alert triggered by "Request Body Contains whoami string". After locating the whoami command and others inside the endpoint affected (WebServer 1004). Looking through filtered logs, confirmed the commands injected were succeful. Server was immediatly isolated, and incident was escalated. 
 
 **Incident Response:**
 
